@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "title": "Micro Engineering Machinery - Hydraulic Attachments for Mini Excavators & Skid Steers",
+    "description": "CE-certified hydraulic attachments for mini excavators and skid steer loaders. Breakers, augers, grapples, brush cutters. OEM customization available."
+  },
+  "nav": {
+    "products": "Products",
+    "industries": "Industries",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "about": "About",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "eyebrow": "CE CERTIFIED ATTACHMENTS MANUFACTURER",
+    "headline": "Hydraulic Attachments Built for Real Work",
+    "subtext": "Mini excavator and skid steer attachments engineered for construction, agriculture, and demolition professionals worldwide.",
+    "ctaPrimary": "Browse Attachments",
+    "ctaSecondary": "Get a Quote"
+  },
+  "trustBar": {
+    "text": "Trusted by equipment operators in 40+ countries"
+  },
+  "categories": {
+    "title": "Product Categories",
+    "earthAuger": "Earth Auger",
+    "hydraulicBreaker": "Hydraulic Breaker",
+    "grapple": "Grapple",
+    "brushCutter": "Brush Cutter",
+    "trencher": "Trencher",
+    "quickCoupler": "Quick Coupler",
+    "ripper": "Ripper",
+    "compactorPlate": "Compactor Plate",
+    "viewSeries": "View Series"
+  },
+  "whyChooseUs": {
+    "title": "Built Different. Built to Last.",
+    "body": "Every attachment is forged from high-grade steel, tested beyond rated capacity, and backed by a 24-month warranty. We do not cut corners because your downtime costs more than our margin.",
+    "cta": "Explore Our Factory",
+    "stats": {
+      "attachmentsShipped": "Attachments Shipped",
+      "countriesServed": "Countries Served",
+      "yearsProduction": "Years in Production",
+      "certifications": "Certifications"
+    }
+  },
+  "industries": {
+    "title": "Industry Applications",
+    "construction": "Construction",
+    "agriculture": "Agriculture",
+    "landscaping": "Landscaping",
+    "demolition": "Demolition",
+    "forestry": "Forestry",
+    "roadMaintenance": "Road Maintenance",
+    "explore": "Explore Solutions"
+  },
+  "factory": {
+    "title": "Where Quality Is Forged",
+    "body": "12,000 sqm production facility. CNC machining centers. Robotic welding. 100% pressure testing before shipment.",
+    "features": {
+      "cnc": "CNC Precision Machining",
+      "welding": "Automated Welding Lines",
+      "testing": "Hydraulic Pressure Testing",
+      "coating": "Shot Blasting & Powder Coating"
+    },
+    "cta": "See Full Factory Tour"
+  },
+  "certificates": {
+    "title": "Certifications",
+    "iso9001": "ISO 9001",
+    "ce": "CE Certification",
+    "rohs": "RoHS Compliance",
+    "sgs": "SGS Verified"
+  },
+  "ctaSection": {
+    "title": "Need a Quote for Your Fleet?",
+    "body": "Tell us your machine models and quantities. We will reply within 24 hours with pricing and compatibility confirmation.",
+    "cta": "Request a Quote",
+    "whatsapp": "Or WhatsApp Us"
+  },
+  "footer": {
+    "tagline": "Precision hydraulic attachments for mini excavators and skid steers.",
+    "products": "Products",
+    "company": "Company",
+    "contact": "Contact",
+    "copyright": "Micro Engineering Machinery. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "whatsapp": {
+    "tooltip": "Chat on WhatsApp"
+  }
+}
